@@ -47,7 +47,7 @@ const ProductCard = ({ image, title, price, installments, freeShipping, discount
           {/* Envío gratis */}
           {freeShipping && (
             <p className="text-meli-green text-xs-meli font-semibold mt-0.5">
-              Envío gratis
+              Envio full
             </p>
           )}
         </div>
